@@ -1,4 +1,3 @@
-# Landing-page
+# Landing page
 
-
-# a poject to apply my knowledge of flexbox
+Through this project i will apply my knowledge of flexbox
